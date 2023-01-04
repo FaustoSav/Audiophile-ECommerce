@@ -8,5 +8,4 @@
   - Tailwind
       
 Preview:
-![desktop-design](![screenshot](https://user-images.githubusercontent.com/84111811/210473589-b134cddd-63a9-43c5-95e8-630929ff7763.png)
-)
+![Screenshot 2023-01-03 at 23-31-49 E-Commerce](https://user-images.githubusercontent.com/84111811/210473786-fb227924-4e74-435d-bf91-8505307bba47.png)
