@@ -1,6 +1,6 @@
 # Audiophile-eCommerce  -  Frontend Mentor Challenge
 
-[DEMO](https://audiophile-e-commerce-fs.vercel.app/)
+[DEMO]https://e-commerce-audiophile.vercel.app/)
       
   Technologies:
   - React
